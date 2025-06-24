@@ -10,7 +10,6 @@ Highlights:
 ```js
 MONGODB_URI=...
 PORT=5001
-NODE_ENV=development
 ```
 
 ### Build the app
